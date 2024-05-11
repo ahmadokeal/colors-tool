@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colors-tool/static/css/main.2a4a9c4e.css",
+    "main.js": "/colors-tool/static/js/main.961f6f88.js",
+    "static/js/787.b5734066.chunk.js": "/colors-tool/static/js/787.b5734066.chunk.js",
+    "index.html": "/colors-tool/index.html",
+    "main.2a4a9c4e.css.map": "/colors-tool/static/css/main.2a4a9c4e.css.map",
+    "main.961f6f88.js.map": "/colors-tool/static/js/main.961f6f88.js.map",
+    "787.b5734066.chunk.js.map": "/colors-tool/static/js/787.b5734066.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4a9c4e.css",
+    "static/js/main.961f6f88.js"
+  ]
+}
